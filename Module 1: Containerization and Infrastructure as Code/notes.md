@@ -39,3 +39,6 @@ COPY <filename>.py <filename>.py
 // overrides the prompt
 ENTRYPOINT ["bash"]
 ```
+
+# Ingesting NY Taxi Data to Postgres
+## 
